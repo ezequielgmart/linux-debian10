@@ -1,7 +1,7 @@
 # Instalar archivos run
 1. cd -Carpeta donde este el archivo run-
-2. ls *Para ver el contenido de un directorio* 
-3. sudo chmod 777 -nombre del archivo- 
+2. ls *Para ver el contenido de un directorio*
+3. sudo chmod 777 -nombre del archivo-
 4. sudo ./nombre del archivo-
 
 # Para poder abrir una carpeta con todos los permisos en visual studio y poder realizar cambios en ella se hace lo siguiente:
@@ -12,3 +12,6 @@
 
 # Detener los servicios en XAMP
 1. sudo /opt/lampp/lampp stop
+
+# Para copiar un archivo debes de
+1. sudo cp *cp sirve para copiar* /directorio-desde-donde-copiar/archivo_copiar /directorio-desde-donde-pegar/archivo-pegar
