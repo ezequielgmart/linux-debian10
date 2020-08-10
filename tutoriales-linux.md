@@ -15,3 +15,12 @@
 
 # Para copiar un archivo debes de
 1. sudo cp *cp sirve para copiar* /directorio-desde-donde-copiar/archivo_copiar /directorio-desde-donde-pegar/archivo-pegar
+
+# Para realizar un commit desde la terminal
+1. Navegamos hasta la ruta donde esté nuestro repositorio.
+2. *git status* para saber cuales son los cambios que tenemos que agregar
+3. *git add* para añadirlos todos.
+4. *git status* para confirmar que todos los datos han sido guardados y actualizado perfectamente.
+4. *git commit -m "mensaje descriptivo acerca de los cambios"*
+5. *git push origin master* para enviar los cambios realizados al repositorio remoto.
+6. *Ingresar las credenciales de la cuenta*
