@@ -25,3 +25,6 @@
 6. *git commit -m "mensaje descriptivo acerca de los cambios"*
 7. *git push origin master* para enviar los cambios realizados al repositorio remoto.
 8. *Ingresar las credenciales de la cuenta*
+
+# descargar firmware ára tarjeta wifi - laptop
+1. Mi laptop es una Dell latitude e4300. la pagina desde donde descargué el firmaware es https://packages.debian.org/buster/all/firmware-iwlwifi/download
